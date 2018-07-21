@@ -1,3 +1,15 @@
-Remember to do run the `npm install` command after cloning this repo :) 
+# Mining Life
+
+## Project setup
+```
+npm install
+```
+
+### Compiles for development
+```
 gulp
+```
+
+### Compiles and minifies for production
+```
 gulp build
